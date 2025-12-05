@@ -13,7 +13,7 @@ All model training, evaluation, and figure generation are contained in: [Code](/
 The script loads the processed ECCO dataset, performs exploratory analysis, trains linear, ridge, and SVR models, constructs a phase-folded seasonal regression model, and generates all figures used in the report.
 
 ### Figures
-All figures generated in the code and included in the final report are available [here](assets/).
+All figures generated in the code and included in the final report are available in the repository [here](assets/).
 
 ### Data
 
